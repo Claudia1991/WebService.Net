@@ -1,0 +1,7 @@
+C:\Projects\Proyectos\WebServiceWCF\WebServiceWCF\bin\WebServiceWCF.dll.config
+C:\Projects\Proyectos\WebServiceWCF\WebServiceWCF\bin\WebServiceWCF.dll
+C:\Projects\Proyectos\WebServiceWCF\WebServiceWCF\bin\WebServiceWCF.pdb
+C:\Projects\Proyectos\WebServiceWCF\WebServiceWCF\obj\Debug\WebServiceWCF.csproj.CoreCompileInputs.cache
+C:\Projects\Proyectos\WebServiceWCF\WebServiceWCF\obj\Debug\WebServiceWCF.dll
+C:\Projects\Proyectos\WebServiceWCF\WebServiceWCF\obj\Debug\WebServiceWCF.pdb
+C:\Projects\Proyectos\WebServiceWCF\WebServiceWCF\obj\Debug\WebServiceWCF.csprojAssemblyReference.cache
